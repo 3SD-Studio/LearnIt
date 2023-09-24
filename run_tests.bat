@@ -1,3 +1,3 @@
-cd tests 
+cd backend/tests 
 
 dotnet test

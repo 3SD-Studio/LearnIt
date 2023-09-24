@@ -27,5 +27,5 @@ yarn-error.log*
 /backend/obj
 
 # tests 
-/tests/bin
-/tests/obj
+/backend/tests/bin
+/backend/tests/obj
