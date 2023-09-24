@@ -1,3 +1,3 @@
 cd tests 
 
-dotnet run
+dotnet build
