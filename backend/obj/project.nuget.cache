@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BF1vQmXjZizS4kYJlDh6AhBu9aZIhxbelKBPA/w/G2eyOSV+bVfvjdABB2/JsGhlqcRbDRFqvotEv/iMectmLg==",
+  "dgSpecHash": "4RDIYxbBEu/+1lNoEAndVa76Z4K6n7f4MV1lHFreVhHSwi22Vit2KcAHV9Yq3A980TTcH8NdjbmyNXEuMzlWLw==",
   "success": true,
-  "projectFilePath": "c:\\Programowanie\\LearnIt\\backend\\backend.csproj",
+  "projectFilePath": "C:\\Programowanie\\LearnIt\\backend\\backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mpilc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
     "C:\\Users\\mpilc\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
