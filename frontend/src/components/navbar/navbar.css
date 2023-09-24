@@ -1,0 +1,14 @@
+#main-contener{
+    background-color: rgb(64, 231, 64);
+    width: 15vw;
+    height: 100vh;
+    position: relative;
+    left: 8vw;
+    text-align: center;
+}
+
+h1{
+    margin: 0;
+    padding: 3vw;
+    font-size: 2.5vw;
+}
