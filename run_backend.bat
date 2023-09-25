@@ -1,3 +1,3 @@
 cd backend 
 
-dotnet run
+dotnet run --project backend.csproj
