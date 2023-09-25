@@ -5,11 +5,11 @@ import './navbar.css';
 
 const Navbar = () => 
     <div id="main-contener">
-        <h1>LearnIt</h1>
-        <Button></Button>
-        <Button></Button>
-        <Button></Button>
-        <Button></Button>
+        <h1 id="site-name">LearnIt</h1>
+        <Button link="https://www.google.com/" buttonName="button-name"/>
+        <Button link="https://www.google.com/" buttonName="button-name"/>
+        <Button link="https://www.google.com/" buttonName="button-name"/>
+        <Button link="https://www.google.com/" buttonName="button-name"/>
     </div>
 
 export default Navbar;

@@ -1,9 +1,15 @@
 import React from 'react'
 import './navbar-button.css'
 
-const Button = () => 
-    <div id="button">
-        <a href='https://calamitymod.wiki.gg/wiki/Guide:Class_setups'>placeholder</a>
-    </div>
+const Button = (props:any) => {
+    console.log(props);
+    return <div>
+                <a href={props.link}>
+                    <button className="navbar-button">
+                        <span>{props.buttonName}</span>
+                    </button>
+                </a>
+            </div>
+}
 
 export default Button
