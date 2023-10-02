@@ -6,7 +6,7 @@ import './navbar-button.css'
  * Button component for navbar 
  * @author Dawid Jeziorski <@Dave848>
  * @param props - must contain link and name 
- * @returns JSX component responsible for navbar button
+ * @returns {TSX} component responsible for navbar button
  */
 const Button = (props: any) => {
   console.log(props);
