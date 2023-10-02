@@ -5,7 +5,7 @@ import './navbar.css';
 /**
  * Navbar component 
  * @author Dawid Jeziorski <@Dave848>
- * @returns {JSX} JSX component responsible for navbar
+ * @returns {TSX} component responsible for navbar
  */
 const Navbar = () =>
   <>
